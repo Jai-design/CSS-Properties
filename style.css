@@ -1,0 +1,39 @@
+body {
+ background-color: #ff9;
+}
+ 
+h1 {
+ font-family: 'Impact';
+ font-size: 2.5em;
+ color: orange;
+ padding: 10px;
+ border: 2.5px solid orange;
+}
+ 
+ 
+h2 {
+ font-family: 'Courier New', Courier, monospace;
+ font-size: 2em;
+ color: lightyellow;
+ padding: 10px;
+ border: 2px solid orange;
+ background-color: orange;
+}
+ 
+ol {
+ font-size: 1em;
+ background-color: #ffcc00;
+}
+ 
+li {
+ font-family: 'Helvetica';
+ padding: 10px;
+ margin: 5.5px;
+ color: lightyellow;
+}
+ 
+p {
+ font-size: 1em;
+ padding: 10px;
+ border: 2px dashed orange;
+}
